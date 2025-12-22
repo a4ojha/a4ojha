@@ -1,6 +1,6 @@
 # hi, i'm adon 🫡
 
-i'm a 19 year old software developer looking for fall 2025 internship opportunities. eager to add a positive contribution to any team.
+i'm a software developer looking for summer 2026 internship opportunities. eager to add a positive contribution to any team.
 
 technologies i've used (in no particular order):  
 
