@@ -30,11 +30,6 @@ backend/db tools:
 [![SQL Server][SQLServer.com]][SQLServer-url]
 [![SQLite][SQLite Badge]][SQLite-url]
 
-cool libraries:  
-[![Pandas][Pandas Badge]][Pandas-url]
-[![Numpy][numpy badge]][Pandas-url]
-[![scikit-learn][scikit-learn badge]][scikit-learn-url]
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
