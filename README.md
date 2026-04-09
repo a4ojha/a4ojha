@@ -1,3 +1,3 @@
 # hi, i'm adon 🫡
 
-computer engineering student at waterloo, eager to add a positive contribution to any team.
+computer engineering student at waterloo, incoming at [MDA Space](https://mda.space/) in robotics and space operations 🚀
