@@ -9,7 +9,7 @@ currently, i'm:
 ---
 previously, i've worked on:
 - .NET, data pipelines, and ML at **toyota**
-- fullstack (Node, Vue) at the **government of canada - financial intelligence unit**
+- fullstack (Node, Vue) at canada's **national financial intelligence agency**
 - fullstack (.NET, Angular) at **ontario power generation**
 ---
 
